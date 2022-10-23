@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  design
 //
-//  Created by Vullnet Jata on 23.10.2022.
+//  Created by V.J on 23.10.2022.
 //
 
 import SwiftUI
